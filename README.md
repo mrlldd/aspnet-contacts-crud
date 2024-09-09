@@ -26,7 +26,7 @@ Contact contains a person information, phone numbers and email addresses
 - Add contact to group
 - Remove contact from group
 
-Solution was created with usage of [RichWebApi](https://github.com/mrlldd/template-dotnet-richwebapi) template
+Solution was created with usage of [RichWebApi](https://github.com/moons-domain/dotnet-webapi-template) template
 
 Solution uses:
 -   [MediatR](https://github.com/jbogard/MediatR)
